@@ -1,0 +1,4 @@
+plugin/*
+sonarlint.nvim
+spell
+ftplugin
